@@ -1,0 +1,59 @@
+{
+    "1746924259.6751032": {
+        "lower_accel_x": 15582,
+        "lower_accel_y": -5592,
+        "lower_accel_z": 395,
+        "upper_accel_x": 13292,
+        "upper_accel_y": -3565,
+        "upper_accel_z": 9703,
+        "lower_gyro_x": 95,
+        "lower_gyro_y": 107,
+        "lower_gyro_z": -117,
+        "upper_gyro_x": -109,
+        "upper_gyro_y": 28,
+        "upper_gyro_z": 22
+    },
+    "1746924259.9354365": {
+        "lower_accel_x": 15578,
+        "lower_accel_y": -5591,
+        "lower_accel_z": 406,
+        "upper_accel_x": 13260,
+        "upper_accel_y": -3538,
+        "upper_accel_z": 9725,
+        "lower_gyro_x": 106,
+        "lower_gyro_y": 101,
+        "lower_gyro_z": -100,
+        "upper_gyro_x": -33,
+        "upper_gyro_y": 118,
+        "upper_gyro_z": -98
+    },
+    "1746924260.195783": {
+        "lower_accel_x": 15845,
+        "lower_accel_y": -5585,
+        "lower_accel_z": 324,
+        "upper_accel_x": 13276,
+        "upper_accel_y": -3471,
+        "upper_accel_z": 9766,
+        "lower_gyro_x": 94,
+        "lower_gyro_y": 90,
+        "lower_gyro_z": -30,
+        "upper_gyro_x": 20,
+        "upper_gyro_y": 221,
+        "upper_gyro_z": -213
+    },
+    "1746924260.456139": {
+        "lower_accel_x": 15584,
+        "lower_accel_y": -5622,
+        "lower_accel_z": 323,
+        "upper_accel_x": 13280,
+        "upper_accel_y": -3466,
+        "upper_accel_z": 9722,
+        "lower_gyro_x": 90,
+        "lower_gyro_y": 62,
+        "lower_gyro_z": -28,
+        "upper_gyro_x": -85,
+        "upper_gyro_y": 40,
+        "upper_gyro_z": 9
+    },
+    "sensor_type": "Gyro_Accel"
+}

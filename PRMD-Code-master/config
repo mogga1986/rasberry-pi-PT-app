@@ -1,0 +1,14 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[remote "pi"]
+	url = ssh://pi@10.42.0.2/home/pi/prmd.git
+	fetch = +refs/heads/*:refs/remotes/pi/*
+[remote "github"]
+	url = https://github.com/CentreMetre/PRMD-Code
+	fetch = +refs/heads/*:refs/remotes/github/*
+[remote "all"]
+    url = ssh://pi@10.42.0.2/home/pi/prmd.git
+    url = https://github.com/CentreMetre/PRMD-Code
